@@ -65,7 +65,6 @@ The resistive load provides a simple and predictable design, while the voltage d
 | Transconductance (gm) | 578 µS |
 | Output Resistance (ro) | 18 kΩ |
 | Voltage Gain (AC) | **8.32 V/V (18.4 dB)** |
-| Bandwidth (-3 dB) | ~2 kHz |
 | Power Consumption | **90 µW** (50 µA × 1.8 V) |
 
 ---
